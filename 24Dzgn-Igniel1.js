@@ -1,1 +1,42 @@
-var_0xfc67=["\x68\x74\x74\x70\x73\x3A\x2F\x2F\x77\x77\x77\x2E\x7A\x6F\x72\x65\x78\x7A\x69\x72\x61\x2E\x73\x68\x6F\x70\x2F","\x61\x73\x73\x69\x67\x6E","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x6C\x65\x6E\x67\x74\x68","\x23\x63\x72\x65\x64\x69\x74\x73","\x23\x63\x72\x65\x64\x69\x74\x6C\x69\x6E\x6B","\x68\x72\x65\x66","\x61\x74\x74\x72","\x74\x65\x78\x74","\x5A\x6F\x72\x65\x78\x5A\x69\x72\x61\x2E\x53\x68\x6F\x70","\x72\x65\x61\x64\x79"];$(document)[_0xfc67[10]](function(){function _0x6a0fx1(){window[_0xfc67[2]][_0xfc67[1]](_0xfc67[0])}function _0x6a0fx2(){if($(_0xfc67[4])[_0xfc67[3]]=== 0){_0x6a0fx1()}else {if($(_0xfc67[5])[_0xfc67[3]]=== 0){_0x6a0fx1()}else {if($(_0xfc67[5])[_0xfc67[7]](_0xfc67[6])!== _0xfc67[0]){_0x6a0fx1()}else {if($(_0xfc67[5])[_0xfc67[8]]()!== _0xfc67[9]){_0x6a0fx1()}}}}}_0x6a0fx2();setInterval(function(){_0x6a0fx2()},5000)});
+<!--
+
+{
+  "name": "Themezest Official",
+  "short_name": "Themezest",
+  "start_url": "https://www.themezest.eu.org/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#1976d2",
+  "description": "Themezest Official Blog Where to Share Tutorials and Tricks Blogger, Premium Blogger Template, Blogger Design, Blogger Widget, Blogger Tutorial, Social media tutorials and Blogspot for beginners Blogger HTML, Javascript, CSS, Templates, AdSense",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-HKBVUtKpdOw/X94Mo66K37I/AAAAAAAAAX4/xwTLGCtxAogAU9k2M_kh1JRwcqdPD9SjACLcBGAsYHQ/s48/Themezest.blogspot.com.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-HKBVUtKpdOw/X94Mo66K37I/AAAAAAAAAX4/xwTLGCtxAogAU9k2M_kh1JRwcqdPD9SjACLcBGAsYHQ/s72/Themezest.blogspot.com.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-HKBVUtKpdOw/X94Mo66K37I/AAAAAAAAAX4/xwTLGCtxAogAU9k2M_kh1JRwcqdPD9SjACLcBGAsYHQ/s96/Themezest.blogspot.com.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-HKBVUtKpdOw/X94Mo66K37I/AAAAAAAAAX4/xwTLGCtxAogAU9k2M_kh1JRwcqdPD9SjACLcBGAsYHQ/s144/Themezest.blogspot.com.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-HKBVUtKpdOw/X94Mo66K37I/AAAAAAAAAX4/xwTLGCtxAogAU9k2M_kh1JRwcqdPD9SjACLcBGAsYHQ/s168/Themezest.blogspot.com.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-HKBVUtKpdOw/X94Mo66K37I/AAAAAAAAAX4/xwTLGCtxAogAU9k2M_kh1JRwcqdPD9SjACLcBGAsYHQ/s192/Themezest.blogspot.com.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-HKBVUtKpdOw/X94Mo66K37I/AAAAAAAAAX4/xwTLGCtxAogAU9k2M_kh1JRwcqdPD9SjACLcBGAsYHQ/s1600/Themezest.blogspot.com.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
+
+-->
